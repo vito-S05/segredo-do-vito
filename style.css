@@ -178,7 +178,7 @@ button:hover{
 /* musica */
 
 .musica{
-    position:fixed;
+    position:-ms-page;
     top:20px;
     left:20px;
     z-index:100;
